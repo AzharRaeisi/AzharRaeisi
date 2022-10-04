@@ -2,6 +2,8 @@
 
 - 🔭 Working on Flutter, AWS and Jenkins
 - 🌱 Learning Blockchain, solidity and alot more on web3
+
+Thank you for visiting!
 <!--
 **AzharRaeisi/AzharRaeisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
